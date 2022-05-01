@@ -1,5 +1,6 @@
 # Calculater-using-HTML-CSS-and-JavaScript
 https://techstarmahesh.github.io/Calculater-using-HTML-CSS-and-JavaScript/
+<br/>
 Made a calculater using HTML CSS and JavaScript
 ## Input
 ![image](https://user-images.githubusercontent.com/46925955/166147300-f737c97b-80cf-4b48-867d-04e66936ac42.png)
