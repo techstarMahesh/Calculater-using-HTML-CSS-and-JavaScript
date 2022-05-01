@@ -1,0 +1,50 @@
+body {
+    background: white;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.wrap {
+    width: 300px;
+    margin: auto;
+    height: 400px;
+    background: gray;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+input[type=text] {
+    background-color: lightsteelblue;
+    width: 100%;
+    padding: 5px;
+    font-size: 22px;
+    font-height: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+input[type=button] {
+    background-color: brown;
+    color: white;
+    width: 63px;
+    padding: 5px;
+    font-size: 22px;
+    font-height: bold;
+    border-radius: 5px;
+    border-color: black;
+}
+
+#del {
+    width: 48%;
+}
+
+input:hover {
+    background-color: skyblue;
+    color: black;
+}
